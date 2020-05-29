@@ -20,4 +20,4 @@ Dronelink, dev@dronelink.com
 
 ## License
 
-DronelinkDJIExample is available under the MIT license. See the LICENSE file for more info.
+DronelinkParrotExample is available under the MIT license. See the LICENSE file for more info.
